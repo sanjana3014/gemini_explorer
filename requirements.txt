@@ -1,0 +1,2 @@
+vertexai==0.1.0
+streamlit==1.11.1
